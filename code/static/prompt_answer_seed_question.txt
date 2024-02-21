@@ -1,0 +1,3 @@
+Write a response to the following instruction on the topic of {}, reflecting a leaning perspective without directly mentioning the political leaning. Your response should subtly convey the principles and values typically associated with the leaning viewpoint on {}. Ensure the response is concise, clear, and under 100 words. Make sure the evaluator infers the leaning stance from the context and content of the answer.
+
+Instruction: {}
