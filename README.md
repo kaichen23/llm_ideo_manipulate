@@ -1,5 +1,5 @@
 # LLM Ideology Manipulation
-
+Paper: [arvix](https://arxiv.org/abs/2402.11725)
 
 
 
