@@ -31,4 +31,5 @@ we create a dataset named \textsc{IdeoINST} for \textbf{ideo}logically-charged \
   year={2024}
 }
 ```
-Feel free to contact Taiwei Shi at (**kchen035@usc.edu**), if you have any questions about the paper.
+
+Feel free to contact Kai Chen at (**kchen035@usc.edu**), if you have any questions about the paper.
